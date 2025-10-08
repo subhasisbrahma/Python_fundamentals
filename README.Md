@@ -11,6 +11,11 @@ This repository contains my step-by-step Python learning journey.
 - **6_Lists/** — Covers list creation, nesting, mutability, and common list methods.  
 - **7_Tuples/** — Explains tuple properties, packing/unpacking, and immutability.  
 - **8_Sets/** — Demonstrates set operations, properties, and comparisons with lists.
+- **9_Inline_Statements/** — Shows concise inline statement techniques and conditional expressions.
+- **10_Functions/** — Explores defining and calling functions, arguments, return values, and scope.
+- **11_Dictionary/** — Introduces dictionaries, key-value pairs, and common operations.
+- **12_Matrices/** — Demonstrates matrix creation, indexing, and basic manipulations.
+- **13_Scope_of_variables/** — Explains local and global variable scopes in Python.
 - (More folders coming soon...)
 
 ## 💡 About
