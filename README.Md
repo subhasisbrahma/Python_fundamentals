@@ -16,6 +16,8 @@ This repository contains my step-by-step Python learning journey.
 - **11_Dictionary/** — Introduces dictionaries, key-value pairs, and common operations.
 - **12_Matrices/** — Demonstrates matrix creation, indexing, and basic manipulations.
 - **13_Scope_of_variables/** — Explains local and global variable scopes in Python.
+- **14_File_Handling/** — Covers reading, writing, and manipulating files with Python.
+- **15_Recursion/** — Demonstrates recursive functions, factorials, and problem-solving with recursion.
 - (More folders coming soon...)
 
 ## 💡 About
