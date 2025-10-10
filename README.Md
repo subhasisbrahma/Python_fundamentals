@@ -18,8 +18,11 @@ This repository contains my step-by-step Python learning journey.
 - **13_Scope_of_variables/** — Explains local and global variable scopes in Python.
 - **14_File_Handling/** — Covers reading, writing, and manipulating files with Python.
 - **15_Recursion/** — Demonstrates recursive functions, factorials, and problem-solving with recursion.
+- **16_Binary_Search/** — Explains iterative and recursive approaches to binary search.
+- **17_Exception_handling/** — Demonstrates Python’s error handling using try, except, else, finally, and custom exceptions.
 - (More folders coming soon...)
 
 ## 💡 About
 Each folder includes small, focused Python programs demonstrating specific core concepts.
+This repository is designed to build a strong foundation through progressive, hands-on Python examples.
 
