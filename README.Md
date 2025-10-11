@@ -20,6 +20,8 @@ This repository contains my step-by-step Python learning journey.
 - **15_Recursion/** — Demonstrates recursive functions, factorials, and problem-solving with recursion.
 - **16_Binary_Search/** — Explains iterative and recursive approaches to binary search.
 - **17_Exception_handling/** — Demonstrates Python’s error handling using try, except, else, finally, and custom exceptions.
+- **18_Object_Oriented_Programming/** — Explains concepts like classes, objects, encapsulation, and inheritance.
+- **19_Numpy/** — Introduces array creation, mathematical operations, and basic NumPy functionalities.
 - (More folders coming soon...)
 
 ## 💡 About
