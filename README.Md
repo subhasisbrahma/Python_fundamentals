@@ -22,6 +22,8 @@ This repository contains my step-by-step Python learning journey.
 - **17_Exception_handling/** — Demonstrates Python’s error handling using try, except, else, finally, and custom exceptions.
 - **18_Object_Oriented_Programming/** — Explains concepts like classes, objects, encapsulation, and inheritance.
 - **19_Numpy/** — Introduces array creation, mathematical operations, and basic NumPy functionalities.
+- **20_Pandas/** — Demonstrates data manipulation, analysis, and DataFrame operations.
+- **21_Matplotlib/** — Shows how to visualize data using scatter plots, bar charts, histograms, pie charts, and subplots.
 - (More folders coming soon...)
 
 ## 💡 About
