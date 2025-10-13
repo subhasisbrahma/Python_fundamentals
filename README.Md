@@ -24,7 +24,6 @@ This repository contains my step-by-step Python learning journey.
 - **19_Numpy/** — Introduces array creation, mathematical operations, and basic NumPy functionalities.
 - **20_Pandas/** — Demonstrates data manipulation, analysis, and DataFrame operations.
 - **21_Matplotlib/** — Shows how to visualize data using scatter plots, bar charts, histograms, pie charts, and subplots.
-- (More folders coming soon...)
 
 ## 💡 About
 Each folder includes small, focused Python programs demonstrating specific core concepts.
